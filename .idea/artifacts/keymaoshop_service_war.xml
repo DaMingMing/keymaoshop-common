@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="keymaoshop-service:war">
+    <output-path>$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-service/target</output-path>
+    <root id="archive" name="keymaoshop-service.war">
+      <element id="artifact" artifact-name="keymaoshop-service:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/keymaoshop-common.iml" filepath="$PROJECT_DIR$/keymaoshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-content/keymaoshop-content.iml" filepath="$PROJECT_DIR$/../keymaoshop-content/keymaoshop-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-content/keymaoshop-content-interface/keymaoshop-content-interface.iml" filepath="$PROJECT_DIR$/../keymaoshop-content/keymaoshop-content-interface/keymaoshop-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-content/keymaoshop-content-service/keymaoshop-content-service.iml" filepath="$PROJECT_DIR$/../keymaoshop-content/keymaoshop-content-service/keymaoshop-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-dao/keymaoshop-dao.iml" filepath="$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-dao/keymaoshop-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-interface/keymaoshop-interface.iml" filepath="$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-interface/keymaoshop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-manager.iml" filepath="$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-parent/keymaoshop-parent.iml" filepath="$PROJECT_DIR$/../keymaoshop-parent/keymaoshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-pojo/keymaoshop-pojo.iml" filepath="$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-pojo/keymaoshop-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-portalWeb/keymaoshop-portalWeb.iml" filepath="$PROJECT_DIR$/../keymaoshop-portalWeb/keymaoshop-portalWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-search/keymaoshop-search.iml" filepath="$PROJECT_DIR$/../keymaoshop-search/keymaoshop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-search/keymaoshop-search-interface/keymaoshop-search-interface.iml" filepath="$PROJECT_DIR$/../keymaoshop-search/keymaoshop-search-interface/keymaoshop-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-search/keymaoshop-search-service/keymaoshop-search-service.iml" filepath="$PROJECT_DIR$/../keymaoshop-search/keymaoshop-search-service/keymaoshop-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-service/keymaoshop-service.iml" filepath="$PROJECT_DIR$/../keymaoshop-manager/keymaoshop-service/keymaoshop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keymaoshop-web/keymaoshop-web.iml" filepath="$PROJECT_DIR$/../keymaoshop-web/keymaoshop-web.iml" />
+    </modules>
+  </component>
+</project>

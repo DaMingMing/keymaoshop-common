@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="keymaoshop-web:war">
+    <output-path>$PROJECT_DIR$/../keymaoshop-web/target</output-path>
+    <root id="archive" name="keymaoshop-web.war">
+      <element id="artifact" artifact-name="keymaoshop-web:war exploded" />
+    </root>
+  </artifact>
+</component>
