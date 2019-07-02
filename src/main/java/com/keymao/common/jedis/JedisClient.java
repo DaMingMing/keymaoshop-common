@@ -36,5 +36,11 @@ public interface JedisClient {
 	 * @return
 	 */
 	Boolean hexists(String key, String field);
+
+	/**
+	 * 据指定key，获取指定hash中所有val的值
+	 * @param key
+	 * @return
+	 */
 	List<String> hvals(String key);
 }
